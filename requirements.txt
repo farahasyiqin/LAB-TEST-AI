@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+PIL
+image
+requests
+json
+operators
+typing
+random
+matplotlib.pyplot
+matplotlib
